@@ -47,6 +47,7 @@ This Python script implements a toxic comment classification model using Bidirec
 ### Installation
 
 1. Clone the repository:
-
+ '''bash
    git clone https://github.com/VijayRajBilla/Comment-Classification-NLP.git
    cd Comment-Classification-NLP
+'''
