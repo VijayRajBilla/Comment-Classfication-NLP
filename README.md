@@ -37,7 +37,6 @@ This Python script implements a toxic comment classification model using Bidirec
 
 1. **Data Preparation:**
    - Place the training data in 'train.csv' and the test data in 'test.csv.'
-   - Download the GloVe word embeddings file ('glove.6B.300d.txt') and update the 'embedding_file' variable accordingly.
 
 2. **Training:**
    - Run the script to train the model. Checkpoints will be saved, and training progress will be displayed.
@@ -45,3 +44,9 @@ This Python script implements a toxic comment classification model using Bidirec
 3. **Prediction:**
    - The trained model will be used to predict toxicity probabilities for the test data.
 
+### Installation
+
+1. Clone the repository:
+
+   git clone https://github.com/VijayRajBilla/Comment-Classification-NLP.git
+   cd Comment-Classification-NLP
